@@ -226,9 +226,12 @@ FAISS
 ✔ Recruiter-friendly  
 ✔ Clear execution flow  
 ✔ Explains **why**, not just **how**  
-✔ Professional GitHub presence  
+✔ Professional GitHub presence
 
----
+
+
+---<img width="1105" height="579" alt="Screenshot 2026-01-08 104205" src="https://github.com/user-attachments/assets/7a9764fe-bcad-4757-835f-cfd62f413682" />
+
 
 If you want next:
 - **`DEPLOY README`** → Add deployment steps  
